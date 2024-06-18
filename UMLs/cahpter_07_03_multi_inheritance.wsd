@@ -1,0 +1,35 @@
+@startuml Instrument Model 
+title Instrument 
+
+interface Instrument {
+    +play()
+}
+
+interface ElectronicInstrument {
+    +tune()
+}
+
+interface KeyboardInstrument {
+    +press()
+}
+
+class Guitar {
+    +play()
+}
+
+class Piano {
+    +play()
+}
+
+class Orchestra {
+    -instruments: Intrument[]
+    +playAll()
+}
+
+Guitar .up-|> Instrument : <<implements>>
+Guitar .up-|> ElectronicInstrument : <<implements>> 
+
+Piano .up-|> Instrument : <<implements>> 
+Piano .up-|> KeyboardInstrument : <<implements>> 
+
+@enduml

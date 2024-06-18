@@ -1,0 +1,30 @@
+@startuml Smart Home Model 
+title Smart Home 
+interface Controllable {
+    +isOn():boolean
+    +turnOn()
+    +turnOff()
+}
+
+class Appliance implements Controllable {
+    #state:boolean
+    #room:String
+}
+
+class Light extends Appliance {
+    +setBrightnessLevel()
+}
+
+class Thermostat extends Appliance {
+    +setTemperature()
+}
+
+class SecuritySystem extends Appliance {
+    -password:String
+    -numberOfAlarms:int
+    -numberOfCameras:int
+    +checkAlarms()
+    +checkCameras()
+}
+
+@enduml
