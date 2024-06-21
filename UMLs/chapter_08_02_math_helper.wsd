@@ -1,0 +1,12 @@
+@startuml Math Model 
+title Math Helper
+
+class MathHelper {
+    +{static}add(a:int, b:int)
+    +{static}substract(a:int, b:int)
+    +{static}multiply(a:int, b:int)
+    +{static}divide(a:int, b:int)
+}
+
+hide empty fields 
+@enduml

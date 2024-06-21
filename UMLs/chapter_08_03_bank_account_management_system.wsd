@@ -1,0 +1,24 @@
+@startuml Bank Account Management Model 
+title Bank Account Management System
+
+class Account {
+    -{static}accountNumber:String 
+    -{static}owner:String
+    -{static}balance:double 
+    --
+    +Account(accounNumber:String, owner:String, balance:double)
+    +deposit(amount:double)
+    +withdraw(amount:double)
+    +viewBalance()
+    +{static}List<Account> accounts
+
+}
+
+class Bank {
+    +List<String> transactionHistory
+    +displayBankInfo()
+    +trackTransaction(description:String)
+}
+
+
+@enduml
