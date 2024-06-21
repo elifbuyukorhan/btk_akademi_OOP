@@ -1,0 +1,15 @@
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/bin/Debug/net8.0/StackApp
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/bin/Debug/net8.0/StackApp.deps.json
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/bin/Debug/net8.0/StackApp.runtimeconfig.json
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/bin/Debug/net8.0/StackApp.dll
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/bin/Debug/net8.0/StackApp.pdb
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.AssemblyInfoInputs.cache
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.AssemblyInfo.cs
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.csproj.CoreCompileInputs.cache
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.sourcelink.json
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.dll
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/refint/StackApp.dll
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.pdb
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/StackApp.genruntimeconfig.cache
+/home/elif/BTK_AKADEMİ/Csharp/StackApp/obj/Debug/net8.0/ref/StackApp.dll
